@@ -1,5 +1,5 @@
 ---
-title: "Jacob Smith's Website"
+title: "Jacob Smith"
 description: |
   About Me
 site: distill::distill_website
