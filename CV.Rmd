@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "CV"
 description: |
   Some additional details about the website
 ---
