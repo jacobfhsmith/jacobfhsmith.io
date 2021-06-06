@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-06T23:00:55+00:00"
+      "last_modified": "2021-06-06T23:05:34+00:00"
     },
     {
       "path": "about.html",
@@ -14,15 +14,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-06T20:49:03+00:00"
+      "last_modified": "2021-06-06T23:05:35+00:00"
     },
     {
       "path": "index.html",
       "title": "Jacob Smith",
       "description": "About Me\n",
       "author": [],
-      "contents": "\nI am an Assistant Research Professor in the Departments of Statistical Science and Political Science at Duke University. Previously, I was a Lecturing Fellow in the Thompson Writing Program at Duke from 2018-2020. Before that, I earned ha Ph.D. in Political Science from UNC-Chapel Hill in 2018, focusing on American Politics, Research Methods, and Public Policy.\nMy research and teaching interests center on legislative politics, elections, state politics and policy, research methods, and academic writing. I am especially interested in quantitative writing pedagogy. In his spare time, I enjoys watching British and Scandinavian detective shows, running, and following elections.\n\n\n\n",
-      "last_modified": "2021-06-06T22:57:26+00:00"
+      "contents": "\nI am an Assistant Research Professor in the Departments of Statistical Science and Political Science at Duke University. Previously, I was a Lecturing Fellow in the Thompson Writing Program at Duke from 2018-2020. Before that, I earned a Ph.D. in Political Science from UNC-Chapel Hill in 2018, focusing on American Politics, Research Methods, and Public Policy.\nMy research and teaching interests center on legislative politics, elections, state politics and policy, research methods, and academic writing. I am especially interested in quantitative writing pedagogy. In his spare time, I enjoy watching British and Scandinavian detective shows, running, and following elections.\n\n\n\n",
+      "last_modified": "2021-06-06T23:05:55+00:00"
     },
     {
       "path": "research.html",
@@ -30,7 +30,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-06T20:49:05+00:00"
+      "last_modified": "2021-06-06T23:05:37+00:00"
     },
     {
       "path": "teaching.html",
@@ -38,7 +38,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-06T23:00:38+00:00"
+      "last_modified": "2021-06-06T23:05:38+00:00"
     }
   ],
   "collections": []
