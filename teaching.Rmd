@@ -1,10 +1,10 @@
 ---
 title: "Teaching"
 description: |
-  Some additional details about the website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+My teaching interests include legislative politics, elections, undergraduate statistical methods, and academic writing. Currently, I am an Assistant Research Professor in the Departments of [Statistical Science](https://stat.duke.edu/) and [Political Science](https://polisci.duke.edu/) at Duke University. This coming semester I am teaching *STA101: Data Analysis and Statistical Inference* and *STA199: Introduction to Data Science and Statistical Thinking*. In the Spring, in addition to my statistics classes, I will be teaching *POLI 116: The American Political System* in the Political Science Department.
 
+Previously, I taught courses in the [Thompson Writing Program](https://twp.duke.edu/) at Duke, and the UNC [Political Science Department](https://politicalscience.unc.edu/) and the [MPA@UNC](https://onlinempa.unc.edu/) program. Teaching is incredibly rewarding because it allows me to channel my expertise into guiding students’ educational journey. My classes are usually a mix of short lectures intertwined with other modes of learning, such as class-wide discussions, simulations, and activities that emphasize specific skills. I design my lectures to not be a one-sided conversation, but rather promote critical thought and provoke responses from students. I also incorporate active learning into my classes with simulations and discussions.
+
+Here are several sample syllabi from courses I have taught:
