@@ -1,13 +1,19 @@
 ---
 title: "Jacob Smith"
-description: |
-  About Me 
+description: "About Me"
 site: distill::distill_website
 ---
+::: {.floatting}
+
+```{r out.width='45%', echo=FALSE, out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("~/R/jacobfhsmith.github.io/Voting.jpg")
+```
 
 I am an Assistant Research Professor in the Departments of Statistical Science and Political Science at Duke University. Previously, I was a Lecturing Fellow in the Thompson Writing Program at Duke from 2018-2020. Before that, I earned a Ph.D. in Political Science from UNC-Chapel Hill in 2018, focusing on American Politics, Research Methods, and Public Policy. 
 
 My research and teaching interests center on legislative politics, elections, state politics and policy, research methods, and academic writing. I am especially interested in quantitative writing pedagogy. In my spare time, I enjoy watching British and Scandinavian detective shows, running, and following elections.
+:::
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
