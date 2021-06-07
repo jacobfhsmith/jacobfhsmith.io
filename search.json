@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-07T13:45:32+00:00"
+      "last_modified": "2021-06-07T14:30:42+00:00"
     },
     {
       "path": "about.html",
@@ -14,7 +14,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-07T13:45:33+00:00"
+      "last_modified": "2021-06-07T14:30:43+00:00"
     },
     {
       "path": "index.html",
@@ -22,7 +22,7 @@
       "description": "About Me\n",
       "author": [],
       "contents": "\nI am an Assistant Research Professor in the Departments of Statistical Science and Political Science at Duke University. Previously, I was a Lecturing Fellow in the Thompson Writing Program at Duke from 2018-2020. Before that, I earned a Ph.D. in Political Science from UNC-Chapel Hill in 2018, focusing on American Politics, Research Methods, and Public Policy.\nMy research and teaching interests center on legislative politics, elections, state politics and policy, research methods, and academic writing. I am especially interested in quantitative writing pedagogy. In his spare time, I enjoy watching British and Scandinavian detective shows, running, and following elections.\n\n\n\n",
-      "last_modified": "2021-06-07T13:45:34+00:00"
+      "last_modified": "2021-06-07T14:30:44+00:00"
     },
     {
       "path": "research.html",
@@ -30,14 +30,14 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-07T13:45:35+00:00"
+      "last_modified": "2021-06-07T14:30:45+00:00"
     },
     {
       "path": "teaching.html",
       "title": "Teaching",
       "author": [],
-      "contents": "\nMy teaching interests include legislative politics, elections, undergraduate statistical methods, and academic writing. Currently, I am an Assistant Research Professor in the Departments of Statistical Science and Political Science at Duke University. This coming semester I am teaching STA101: Data Analysis and Statistical Inference and STA199: Introduction to Data Science and Statistical Thinking. In the Spring, in addition to my statistics classes, I will be teaching POLI 116: The American Political System in the Political Science Department.\nPreviously, I taught courses in the Thompson Writing Program at Duke, and the UNC Political Science Department and the MPA@UNC program. Teaching is incredibly rewarding because it allows me to channel my expertise into guiding students’ educational journey. My classes are usually a mix of short lectures intertwined with other modes of learning, such as class-wide discussions, simulations, and activities that emphasize specific skills. I design my lectures to not be a one-sided conversation, but rather promote critical thought and provoke responses from students. I also incorporate active learning into my classes with simulations and discussions.\nHere are several sample syllabi from courses I have taught:\n\n\n\n",
-      "last_modified": "2021-06-07T13:45:36+00:00"
+      "contents": "\nMy teaching interests include legislative politics, elections, undergraduate statistical methods, and academic writing. Currently, I am an Assistant Research Professor in the Departments of Statistical Science and Political Science at Duke University. This coming semester I am teaching STA101: Data Analysis and Statistical Inference and STA199: Introduction to Data Science and Statistical Thinking. In the Spring, in addition to my statistics classes, I will be teaching POLI 116: The American Political System in the Political Science Department.\nPreviously, I taught courses in the Thompson Writing Program at Duke, and the UNC Political Science Department and the MPA@UNC program. Teaching is incredibly rewarding because it allows me to channel my expertise into guiding students’ educational journey. My classes are usually a mix of short lectures intertwined with other modes of learning, such as class-wide discussions, simulations, and activities that emphasize specific skills. I design my lectures to not be a one-sided conversation, but rather promote critical thought and provoke responses from students. I also incorporate active learning into my classes with simulations and discussions.\nHere are sample syllabi from two of the courses I have taught:\nStatistics 101: Data Analysis and Statistical Inference Introduction to statistics as a science of understanding and analyzing data. Themes include data collection, exploratory analysis, inference, and modeling. Focus on principles underlying quantitative research in social sciences, humanities, and public policy. Research projects teach the process of scientific discovery and synthesis and critical evaluation of research and statistical arguments. Readings give perspective on why in 1950, S. Wilks said, “Statistical thinking will one day be as necessary a qualification for efficient citizenship as the ability to read and write.”\nWriting 101 Congress and Quantitative Writing: The American people widely view Congress to be a dysfunctional institution, with a 2013 Public Policy Polling poll rating Congress as less popular than cockroaches, root canals, and the band Nickelback. Yet despite this unpopularity, most members of Congress who seek reelection continue to win. In this course, we will look at how scholars explain puzzles about Congress such as this through writings including theoretical essays, descriptive analyses, and quantitative research articles.\n\n\n\n",
+      "last_modified": "2021-06-07T14:30:46+00:00"
     }
   ],
   "collections": []
