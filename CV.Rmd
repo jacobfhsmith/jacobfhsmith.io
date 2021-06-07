@@ -1,10 +1,13 @@
 ---
 title: "CV"
 description: |
-  Some additional details about the website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+<object data="Jacob Smith_CV.pdf" width="800" height="1000" type='application/pdf'/><object>
+
+
 
