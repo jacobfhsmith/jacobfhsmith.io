@@ -6,10 +6,12 @@ site: distill::distill_website
 ::: {.floatting}
 
 ```{r out.width='45%', echo=FALSE, out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics("~/R/jacobfhsmith.github.io/Voting.jpg")
+knitr::include_graphics("Voting.jpg")
 ```
 
-I am an Assistant Research Professor in the Departments of Statistical Science and Political Science at Duke University. Previously, I was a Lecturing Fellow in the Thompson Writing Program at Duke from 2018-2020. Before that, I earned a Ph.D. in Political Science from UNC-Chapel Hill in 2018, focusing on American Politics, Research Methods, and Public Policy. 
+I am a Visiting Assistant Professor of Political Science at Kenyon College.
+
+From 2020-2022, I was an Assistant Research Professor in the Departments of Statistical Science and Political Science at Duke University. Previously, I was a Lecturing Fellow in the Thompson Writing Program at Duke from 2018-2020. Before that, I earned a Ph.D. in Political Science from UNC-Chapel Hill in 2018, focusing on American Politics, Research Methods, and Public Policy. 
 
 My research and teaching interests center on Congress, elections, policymaking. I also am interested the presidency, race and politics, research methods, and academic writing, with a focus on quantitative writing pedagogy. In my spare time, I enjoy watching British and Scandinavian detective shows, running, and following elections.
 :::
