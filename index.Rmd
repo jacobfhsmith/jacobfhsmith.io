@@ -9,9 +9,9 @@ site: distill::distill_website
 knitr::include_graphics("Voting.jpg")
 ```
 
-I am a Visiting Assistant Professor of Political Science at Kenyon College.
+As of September 1, 2023, I am an assistant professor in the Political Science Department at Fordham University.
 
-From 2020-2022, I was an Assistant Research Professor in the Departments of Statistical Science and Political Science at Duke University. Previously, I was a Lecturing Fellow in the Thompson Writing Program at Duke from 2018-2020. Before that, I earned a Ph.D. in Political Science from UNC-Chapel Hill in 2018, focusing on American Politics, Research Methods, and Public Policy. 
+Previously, I was a visiting assistant professor at Kenyon College and taught courses in statistics, political science, and first-year writing at Duke Unversity. 
 
 My research and teaching interests center on Congress, elections, policymaking. I also am interested the presidency, race and politics, research methods, and academic writing, with a focus on quantitative writing pedagogy. In my spare time, I enjoy watching British and Scandinavian detective shows, running, and following elections.
 :::
