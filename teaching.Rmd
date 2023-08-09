@@ -3,15 +3,15 @@ title: "Teaching"
 description: |
 ---
 
-My teaching interests within American politics include elections, Congress, political polarization, and public opinion. I also enjoy teaching classes focused on on public policy, undergraduate research methods, and academic writing.
+My teaching interests within American politics include elections, Congress, political polarization, the presidency, and public opinion. I also enjoy teaching classes focused on on public policy, undergraduate research methods, and academic writing.
 
-As of July 2022, I am a Visiting Assistant Professor in the Department of [Political Science](https://www.kenyon.edu/academics/departments-and-majors/political-science/) at Kenyon College. This coming semester, I am teaching *PSCI/AMST 200D: Liberal Democracy in America* and *PSCI 303: Campaigns and Elections*.
+During the 2022-23 school year, I was a visiting assistant professor at Kenyon College. Previously, I taught at Duke University, offering courses in in the Departments of [Statistical Science](https://stat.duke.edu/) and [Political Science](https://polisci.duke.edu/) and in the [Thompson Writing Program](https://twp.duke.edu/). I have also taught courses in the UNC [Political Science Department](https://politicalscience.unc.edu/) and the [MPA@UNC](https://onlinempa.unc.edu/) program. 
 
-Previously, I taught at Duke University, offering courses in in the Departments of [Statistical Science](https://stat.duke.edu/) and [Political Science](https://polisci.duke.edu/) and in the [Thompson Writing Program](https://twp.duke.edu/). I have also taught courses in the UNC [Political Science Department](https://politicalscience.unc.edu/) and the [MPA@UNC](https://onlinempa.unc.edu/) program. 
+My classes are usually a mix of short lectures intertwined with other modes of learning, such as class-wide discussions, simulations, and activities that emphasize specific skills. I design my lectures to not be a one-sided conversation, but rather promote critical thought and provoke responses from students. I also incorporate active learning into my classes with simulations and discussions.
 
-Teaching is incredibly rewarding because it allows me to channel my expertise into guiding students’ educational journey. My classes are usually a mix of short lectures intertwined with other modes of learning, such as class-wide discussions, simulations, and activities that emphasize specific skills. I design my lectures to not be a one-sided conversation, but rather promote critical thought and provoke responses from students. I also incorporate active learning into my classes with simulations and discussions.
+As I finalize my syllabi for this Fall, I will upload syllabi here as a resource for Fordham students.
 
-Here are sample syllabi from two of the courses I have taught:
+As a guide of how I teach, here are sample syllabi from two of the courses I taught at Duke:
 
 - [**Statistics 101: Data Analysis and Statistical Inference**](https://github.com/jacobfhsmith/jacobfhsmith.github.io/blob/main/STA101Syllabus_JacobSmith.pdf?raw=true) Introduction to statistics as a science of understanding and analyzing data. Themes include data collection, exploratory analysis, inference, and modeling. Focus on principles underlying quantitative research in social sciences, humanities, and public policy. Research projects teach the process of scientific discovery and synthesis and critical evaluation of research and statistical arguments. Readings give perspective on why in 1950, S. Wilks said, "Statistical thinking will one day be as necessary a qualification for efficient citizenship as the ability to read and write."
 
