@@ -9,11 +9,11 @@ site: distill::distill_website
 knitr::include_graphics("Voting.jpg")
 ```
 
-As of September 1, 2023, I am an assistant professor in the Political Science Department at Fordham University.
+I am an assistant professor in the Political Science Department at Fordham University.
 
 Previously, I was a visiting assistant professor at Kenyon College and taught courses in statistics, political science, and first-year writing at Duke Unversity. 
 
-My research and teaching interests center on Congress, elections, policymaking. I also am interested in the presidency, race and politics, research methods, and academic writing, with a focus on quantitative writing pedagogy. In my spare time, I enjoy watching British and Scandinavian detective shows, running, and following elections.
+My research and teaching interests center on Congress, elections, and policymaking. I also am interested in the presidency, race and politics, research methods, and academic writing, with a focus on quantitative writing pedagogy. In my spare time, I enjoy watching British and Scandinavian detective shows, running, and following elections.
 :::
 
 
